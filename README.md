@@ -10,8 +10,8 @@ The mass of dark matter is specified in the range of 0.1 GeV to 1000 GeV.
 
 To explore various characteristics of dark matter, distributions were obtained in multiple ways.
 
-AMSbb: Bottom channel
-AMSgg: Gluon channel
+AMSbb: Bottom channel<br/>
+AMSgg: Gluon channel<br/>
 
 Propagation function: MIN, MED, MAX
 
