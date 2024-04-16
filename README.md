@@ -12,6 +12,7 @@ To explore various characteristics of dark matter, distributions were obtained i
 
 AMSbb: Bottom channel<br/>
 AMSgg: Gluon channel<br/>
+AMShh: Higgs channel<br/>
 
 Propagation function: MIN, MED, MAX
 
